@@ -1,0 +1,17 @@
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\WebHDFS.exe
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\WebHDFS.deps.json
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\WebHDFS.runtimeconfig.json
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\WebHDFS.dll
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\WebHDFS.pdb
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.csproj.AssemblyReference.cache
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.AssemblyInfoInputs.cache
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.AssemblyInfo.cs
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.csproj.CoreCompileInputs.cache
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.csproj.CopyComplete
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.dll
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\refint\WebHDFS.dll
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.pdb
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\WebHDFS.genruntimeconfig.cache
+C:\Users\Playingthedevil\source\repos\WebHDFS\WebHDFS\obj\Debug\net6.0\ref\WebHDFS.dll

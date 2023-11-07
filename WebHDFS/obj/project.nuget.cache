@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PB1ixX7FC3ms420FdpZEWtxni0QhJBaH1eKaekPspU1KhqBbJutBKOLPV2QRpD4//4Pb3ACExf1WIv8b3WQ3MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Playingthedevil\\source\\repos\\WebHDFS\\WebHDFS\\WebHDFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Playingthedevil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
