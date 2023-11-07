@@ -12,13 +12,13 @@ namespace HDFSClient
 
         static async Task Main(string[] args)
         {
-            string hdfsBaseUrl = "http://<HDFS_HOST>:<HDFS_PORT>/webhdfs/v1/"; // Замените <HDFS_HOST> и <HDFS_PORT> на соответствующие значения
+            
 
             while (true)
-            {
+            {                
                 Console.Write("hdfs> ");
                 string command = Console.ReadLine();
-
+                string hdfsBaseUrl = $"http://{command.Split(" ")[0]}:{command.Split(" ")[1]}/webhdfs/v1/";
                 if (command.StartsWith("mkdir"))
                 {
                     string directoryName = command.Split(" ")[1];
